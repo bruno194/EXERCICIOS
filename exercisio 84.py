@@ -26,3 +26,6 @@ for cadapeso in  lista:
     if cadapeso[1] == gambiarradasbrabas2:
         print(cadapeso[0])
 #meu exercicio preferido até agora
+#meu exercicio preferido até agora
+#meu exercicio preferido até agora
+#meu exercicio preferido até agora
